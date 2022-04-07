@@ -1,0 +1,5 @@
+[blockchains.avalanche]
+host = "127.0.0.1"
+endpoint = "/ext/bc/C/ws"
+port = 9650
+protocol = "ws://"
